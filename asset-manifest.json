@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/cs450-react/static/js/main.74ebdb72.js",
-    "index.html": "/cs450-react/index.html",
-    "main.74ebdb72.js.map": "/cs450-react/static/js/main.74ebdb72.js.map"
+    "main.js": "/cs450-assignment1/static/js/main.74ebdb72.js",
+    "index.html": "/cs450-assignment1/index.html",
+    "main.74ebdb72.js.map": "/cs450-assignment1/static/js/main.74ebdb72.js.map"
   },
   "entrypoints": [
     "static/js/main.74ebdb72.js"
